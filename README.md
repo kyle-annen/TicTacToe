@@ -1,6 +1,7 @@
-TicTacToe class created for the Odin project. 
+TicTacToe class created for The Odin project. 
 
-to play
+to play:
 
 t = TicTacToe.new
+
 t.play_game
